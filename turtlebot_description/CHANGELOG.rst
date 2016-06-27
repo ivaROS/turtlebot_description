@@ -2,6 +2,13 @@
 Changelog for package turtlebot_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.3.12 (2016-06-27)
+-------------------
+* update xacro usage for jade deprecations
+  comment out unused arguments generating errors
+* [turtlebot_description] adds orbbec astra urdfs and mesh
+* Contributors: Marcus Liebhardt, Tully Foote
+
 2.3.11 (2015-04-15)
 -------------------
 
