@@ -33,9 +33,9 @@
         </geometry>
       </visual>
   	  <collision>
-        <origin xyz="0.0 0.0 0.0" rpy="0 0 0"/>
+        <origin xyz="0.0478 0.0 0.0" rpy="0 0 -${M_PI/2}"/>
   	    <geometry>
-  	      <box size="0.07271 0.27794 0.073"/>
+  	      <mesh filename="package://turtlebot_description/meshes/sensors/kinect-collision.dae" scale="0.1 0.1 0.1"/>
   	    </geometry>
   	  </collision>
       <inertial>
