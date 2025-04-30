@@ -1,0 +1,1 @@
+The original DWG files are no longer possible to obtain.  An old[ google groups chat posting](https://groups.google.com/g/sydney_ros/c/z05uQTCuDTQ) has a link to CAD files for the Turtlebot 2 tower/stack components. That is where the files here cam from just in case that lin goes away too.
